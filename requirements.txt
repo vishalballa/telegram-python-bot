@@ -5,5 +5,5 @@ pandas
 aiofiles
 openpyxl
 pandas-ta
-deriv-api
 flask
+git+https://github.com/deriv-com/python-deriv-api.git
