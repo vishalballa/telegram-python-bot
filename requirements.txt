@@ -1,9 +1,0 @@
-python-telegram-bot==20.7
-python-dotenv
-numpy
-pandas
-aiofiles
-openpyxl
-pandas-ta
-flask
-git+https://github.com/deriv-com/python-deriv-api.git
